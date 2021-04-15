@@ -5,3 +5,5 @@ def calc(a,b):
 	print(difference)
 	multiply = a*b
 	print(multiply)
+	divide = a/b
+	print(divide)
