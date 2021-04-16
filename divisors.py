@@ -1,2 +1,4 @@
 def divisors(a):
-	pass
+	if a==0:
+		return []
+	
