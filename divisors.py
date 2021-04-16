@@ -1,4 +1,6 @@
 def divisors(a):
 	i = 1
-	while i <=n :
+	while i <=a :
+		if (a % i==0):
+			pass
 		i = i+1
