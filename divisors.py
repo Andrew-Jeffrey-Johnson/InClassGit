@@ -7,3 +7,6 @@ def divisors(a):
 		i = i+1
 	print(divs)
 	return divs
+
+print("Divisors of number 12:")
+divisors(12)
