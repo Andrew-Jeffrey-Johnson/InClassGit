@@ -1,2 +1,2 @@
 def divisors(a):
-	pass
+	i = 1
