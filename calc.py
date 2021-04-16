@@ -1,9 +1,6 @@
 def calc(a,b):
-	sum = a+b
-	print(sum)
+	add = a+b
 	difference = a-b
-	print(difference)
 	multiply = a*b
-	print(multiply)
 	divide = a/b
-	print(divide)
+	sum_list = sum(a)+sum(b)
